@@ -2,7 +2,7 @@
 [![Github](http://github-svg-buttons.herokuapp.com/star.svg?user=binarywang&repo=weixin-java-pay-demo&style=flat&background=1081C1)](https://github.com/binarywang/weixin-java-pay-demo)
 [![Build Status](https://travis-ci.org/binarywang/weixin-java-pay-demo.svg?branch=master)](https://travis-ci.org/binarywang/weixin-java-pay-demo)
 -----------------------
-
+测试提交
 #### 本 Demo 基于 `WxJava` 和 `Spring Boot` 构建，演示微信支付后端接口使用方法。
 
 
